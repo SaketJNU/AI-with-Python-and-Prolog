@@ -1,0 +1,2 @@
+# AI-with-Python-and-Prolog
+AKTU: BCS751 ARTIFICIAL INTELLIGENCE LAB 
