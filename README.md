@@ -1,4 +1,4 @@
-*BCS751: ARTIFICIAL INTELLIGENCE LAB*
+**BCS751: ARTIFICIAL INTELLIGENCE LAB**
 1. Implement Breadth First Search (BFS) for a given graph or maze. 
 2. Implement Depth First Search (DFS) for a tree or graph structure. 
 3. Solve the 8-Puzzle Problem using A* Search Algorithm. 
