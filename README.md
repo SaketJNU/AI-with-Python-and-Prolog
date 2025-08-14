@@ -1,7 +1,7 @@
 **BCS751: ARTIFICIAL INTELLIGENCE LAB**
-1. Remove punctuation and stop words from a paragraph using nltk. 
-2. Perform stemming and lemmatization on user-input text. 
-3. Apply POS (Part of Speech) tagging using NLTK on a given sentence. 
+1. Remove punctuation and stop words from a paragraph using nltk. [Program-1](https://github.com/SaketJNU/AI-with-Python-and-Prolog/blob/main/Python/Program1.py) 
+2. Perform stemming and lemmatization on user-input text. [Program-2](https://github.com/SaketJNU/AI-with-Python-and-Prolog/blob/main/Python/Program2.py) 
+3. Apply POS (Part of Speech) tagging using NLTK on a given sentence. [Program-3](https://github.com/SaketJNU/AI-with-Python-and-Prolog/blob/main/Python/Program1.py)
 4. Build a simple text classifier using NLTK (e.g., classify messages as spam/ham). 
 5. Implement Breadth First Search (BFS) for a given graph or maze. 
 6. Implement Depth First Search (DFS) for a tree or graph structure. 
