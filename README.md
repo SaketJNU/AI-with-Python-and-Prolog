@@ -3,7 +3,7 @@
 2. Perform stemming and lemmatization on user-input text. [Python Code](https://github.com/SaketJNU/AI-with-Python-and-Prolog/blob/main/Python/Program2.py) 
 3. Apply POS (Part of Speech) tagging using NLTK on a given sentence. [Python Code](https://github.com/SaketJNU/AI-with-Python-and-Prolog/blob/main/Python/Program1.py)
 4. Build a simple text classifier using NLTK (e.g., classify messages as spam/ham). [Python Code](https://github.com/SaketJNU/AI-with-Python-and-Prolog/blob/main/Python/Program4.py)
-5. Implement Breadth First Search (BFS) for a given graph or maze. [Python code for *graph*](https://github.com/SaketJNU/AI-with-Python-and-Prolog/blob/main/Python/Program-5a.py)   [Python code for *Grid*](https://github.com/SaketJNU/AI-with-Python-and-Prolog/blob/main/Python/Program-5b.py)
+5. Implement Breadth First Search (BFS) for a given graph or maze. [Python code for *Graph*](https://github.com/SaketJNU/AI-with-Python-and-Prolog/blob/main/Python/Program-5a.py)  and [Python code for *Grid*](https://github.com/SaketJNU/AI-with-Python-and-Prolog/blob/main/Python/Program-5b.py)
 6. Implement Depth First Search (DFS) for a tree or graph structure. 
 7. Implement Tic-Tac-Toe game with a basic AI opponent. 
 8. Solve the 8-Puzzle Problem using A* Search Algorithm.
